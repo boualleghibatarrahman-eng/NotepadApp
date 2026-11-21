@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NotepadApp</string>
+    <string name="hint_file_name">File Name (e.g., note.txt)</string>
+    <string name="hint_note_text">Start typing your note here...</string>
+    <string name="hint_search">Search word...</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_open">Open</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_text_size">Size</string>
+    <string name="btn_clear_highlight">Clear Highlights</string>
+
+    <string name="msg_saved">Saved successfully!</string>
+    <string name="msg_file_not_found">File does not exist!</string>
+    <string name="msg_error_empty">File name and text cannot be empty.</string>
+    <string name="msg_search_empty">Enter a word to search.</string>
+    <string name="msg_auto_saved">Draft auto-saved.</string>
+    <string name="msg_highlights_cleared">Highlights cleared.</string>
+
+    <string name="word_count_prefix">Words: </string>
+    <string name="search_count_prefix">Found: </string>
+</resources>
